@@ -1,0 +1,8 @@
+$ git clone https://github.com/nncearcer/Che-Practice-maven-nexus-SonaQube.git
+Cloning into 'Che-Practice-maven-nexus-SonaQube'...
+remote: Enumerating objects: 52, done.
+remote: Counting objects: 100% (52/52), done.
+remote: Compressing objects: 100% (28/28), done.
+remote: Total 52 (delta 8), reused 52 (delta 8), pack-reused 0
+Receiving objects: 100% (52/52), 57.50 KiB | 64.00 KiB/s, done.
+Resolving deltas: 100% (8/8), done.
